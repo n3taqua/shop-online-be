@@ -1,0 +1,7 @@
+
+V
+java:S4684)"@Replace this persistent entity with a simple POJO or DTO object.(õÆ¿”
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¤œ¼àûÿÿÿÿ
+f	java:S117$"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ€ì˜
+V
+java:S4684$"@Replace this persistent entity with a simple POJO or DTO object.(µ€ì˜
