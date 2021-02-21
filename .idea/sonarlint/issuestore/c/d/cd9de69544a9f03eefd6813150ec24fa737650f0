@@ -1,7 +1,7 @@
 
-U	java:S1065"9Replace this use of System.out or System.err by a logger.(ïÄıò8Ø´¦Ÿñ.
-Z	java:S1064"9Replace this use of System.out or System.err by a logger.(Ÿ¡Í­øÿÿÿÿ8¦ëÁŸñ.
-Z	java:S1069"9Replace this use of System.out or System.err by a logger.(ß‰”ıÿÿÿÿ8Ä‡§Ÿñ.
-Z	java:S1067"9Replace this use of System.out or System.err by a logger.(ß‰”ıÿÿÿÿ8Ø´¦Ÿñ.
 T
 java:S36556"7Call "Optional#isPresent()" before accessing the value.(ÊÌ‰¼8Ø´¦Ÿñ.
+U	java:S1065"9Replace this use of System.out or System.err by a logger.(ïÄıò8Ø´¦Ÿñ.
+Z	java:S1069"9Replace this use of System.out or System.err by a logger.(ß‰”ıÿÿÿÿ8Ä‡§Ÿñ.
+Z	java:S1064"9Replace this use of System.out or System.err by a logger.(Ÿ¡Í­øÿÿÿÿ8¦ëÁŸñ.
+Z	java:S1067"9Replace this use of System.out or System.err by a logger.(ß‰”ıÿÿÿÿ8Ø´¦Ÿñ.

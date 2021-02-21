@@ -1,6 +1,7 @@
 package com.truong.shop.ddd.product.service.dto.details;
 
 import com.truong.shop.ddd.categories.feature.service.dto.featureandvaluedto.CategoryFeatureAndValueDTO;
+import com.truong.shop.ddd.comment.Comment;
 import com.truong.shop.ddd.product.image.Image;
 import com.truong.shop.ddd.product.specialfeature.service.ProductSpecialFeatureDTO;
 import lombok.AllArgsConstructor;
@@ -26,4 +27,5 @@ public class ProductDetailsDTO {
     private List<Image> images;
     private List<CategoryFeatureAndValueDTO> categoriesFeatures;
     private List<ProductSpecialFeatureDTO> features;
+    private List<Comment> comments;
 }

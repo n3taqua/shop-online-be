@@ -2,6 +2,7 @@ package com.truong.shop.ddd.product;
 
 import com.truong.shop.ddd.categories.Category;
 import com.truong.shop.ddd.categories.feature.value.CategoriesFeatureValue;
+import com.truong.shop.ddd.comment.Comment;
 import com.truong.shop.ddd.product.image.Image;
 import com.truong.shop.ddd.product.specialfeature.ProductSpecialFeature;
 import lombok.AllArgsConstructor;
@@ -47,4 +48,6 @@ public class Product implements Serializable {
     private List<CategoriesFeatureValue> categoriesFeatureValues;
     @OneToMany(mappedBy = "product",orphanRemoval = true)
     private List<Image> images;
+    @OneToMany(mappedBy = "product",orphanRemoval = true)
+    private List<Comment> comments;
 }

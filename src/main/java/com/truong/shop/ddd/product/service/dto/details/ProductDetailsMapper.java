@@ -39,6 +39,7 @@ public class ProductDetailsMapper {
                         .price(product.getPrice())
                         .sale(product.getSale())
                         .description(product.getDescription())
+                        .comments(product.getComments())
                         .features(featureService.getAllByProductId(product.getId()))
                         .categoriesFeatures(categoriesFeatureService.getAllFeatureAndValueByProductId(product.getId()))
                         .build();

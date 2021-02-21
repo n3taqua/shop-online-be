@@ -1,13 +1,13 @@
 
-a
-java:S1854c"?Remove this useless assignment to local variable "productPage".(åÓ˜œıÿÿÿÿ8¨†æ¼ø.
-{
-java:S2293c"YReplace the type specification in this constructor call with the diamond operator ("<>").(åÓ˜œıÿÿÿÿ8îÑµ»ø.
-O
-java:S1602„",Remove useless curly braces around statement(¿­ŞÅüÿÿÿÿ8ëõÖ¼ø.
 Z	java:S106l"9Replace this use of System.out or System.err by a logger.(‡ÇÖÉşÿÿÿÿ8‘³Ø¼ø.
-Z	java:S106y"9Replace this use of System.out or System.err by a logger.(‡ÇÖÉşÿÿÿÿ8‹åÖ¼ø.
-t
-java:S3776`"RRefactor this method to reduce its Cognitive Complexity from 41 to the 15 allowed.(¿³£‹úÿÿÿÿ8Ó¼È±÷.
 J
 java:S1602…",Remove useless curly braces around statement(Í¬‚8°ò„»ø.
+t
+java:S3776`"RRefactor this method to reduce its Cognitive Complexity from 41 to the 15 allowed.(¿³£‹úÿÿÿÿ8Ó¼È±÷.
+Z	java:S106y"9Replace this use of System.out or System.err by a logger.(‡ÇÖÉşÿÿÿÿ8‹åÖ¼ø.
+{
+java:S2293c"YReplace the type specification in this constructor call with the diamond operator ("<>").(åÓ˜œıÿÿÿÿ8îÑµ»ø.
+a
+java:S1854c"?Remove this useless assignment to local variable "productPage".(åÓ˜œıÿÿÿÿ8¨†æ¼ø.
+O
+java:S1602„",Remove useless curly braces around statement(¿­ŞÅüÿÿÿÿ8ëõÖ¼ø.

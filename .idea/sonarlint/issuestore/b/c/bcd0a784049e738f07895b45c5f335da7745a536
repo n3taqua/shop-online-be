@@ -1,10 +1,10 @@
 
->	java:S108*")Either remove or fill this block of code.(Þðê¶
 C	java:S108'")Either remove or fill this block of code.(²–›¢úÿÿÿÿ
 Z
 java:S2147*"DCombine this catch with the one at line 39, which has the same body.(Þðê¶
+C	java:S108-")Either remove or fill this block of code.(’±•çüÿÿÿÿ
 7
 java:S1170"!Make this final field static too.(ß¸ìë
-C	java:S108-")Either remove or fill this block of code.(’±•çüÿÿÿÿ
+>	java:S108*")Either remove or fill this block of code.(Þðê¶
 _
 java:S2147-"DCombine this catch with the one at line 39, which has the same body.(’±•çüÿÿÿÿ
