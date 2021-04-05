@@ -1,9 +1,9 @@
 spring:
   datasource:
-    driver-class-name: com.mysql.jdbc.Driver
-    password: 12345
-    url: jdbc:mysql://localhost:3306/shop
-    username: root
+    driver-class-name: org.postgresql.Driver
+    password: d42etgvtaca2hh
+    url: jdbc:postgres://cntehcxcmijcsg:511c1da692e6b69d929ce61f5e30c8302ab9f4f2e1253b8ab6315dbdb482f73a@ec2-54-205-183-19.compute-1.amazonaws.com:5432/d42etgvtaca2hh
+    username: cntehcxcmijcsg
   jpa:
     hibernate:
       ddl-auto: update
@@ -12,6 +12,6 @@ spring:
         physical-strategy: org.hibernate.boot.model.naming.PhysicalNamingStrategyStandardImpl
     properties:
       hibernate:
-        dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+        dialect:  org.hibernate.dialect.PostgreSQLDialect
         format_sql: true
     show-sql: true

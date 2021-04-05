@@ -10,4 +10,4 @@ spring:
 ---
 spring:
     profiles:
-        active: local
+        active: heroku
