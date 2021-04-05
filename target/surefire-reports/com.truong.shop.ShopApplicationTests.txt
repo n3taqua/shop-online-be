@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.truong.shop.ShopApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 14.318 s - in com.truong.shop.ShopApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 15.505 s - in com.truong.shop.ShopApplicationTests
