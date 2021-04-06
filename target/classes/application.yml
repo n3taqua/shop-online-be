@@ -1,0 +1,13 @@
+spring:
+    profiles:
+        include: local,common
+        active: local
+---
+spring:
+    profiles:
+        include: heroku,common
+        active: heroku
+---
+spring:
+    profiles:
+        active: heroku
